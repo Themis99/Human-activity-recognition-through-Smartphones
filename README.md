@@ -1,4 +1,5 @@
 # Human Activity Recognition Through Smartphones
+![Human](https://user-images.githubusercontent.com/46052843/191772606-f599c270-97b2-43a9-ab91-563b4dc6a882.png)
 
 In this project, we try to track the physical activities of people through sensors from smartphones placed in different positions of the body. These activities are biking, downstairs, jogging, sitting, standing, upstairs, and walking. **Support Vector Machine** was used for the classification.
 
